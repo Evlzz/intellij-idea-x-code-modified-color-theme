@@ -14,4 +14,7 @@ To install it:
 
 ![preview](https://github.com/Evlzz/intellij-idea-x-code-modified-color-theme/assets/136069270/f3fe6104-3e48-4941-aefa-24548ae539c2)
 
-original scheme's repository: https://github.com/WhiteVermouth/XcodeTheme
+
+
+
+Original scheme's repository: https://github.com/WhiteVermouth/XcodeTheme
