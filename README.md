@@ -1,3 +1,13 @@
 # intellij-idea-x-code-modified-color-theme
 
-this is my edited version of xcode color theme for jetbrains based ides
+This is my edited version of xcode color theme for jetbrains based ides
+
+To install it:
+
+1. download main file
+
+2. go: File - Settings - Editor - Color Scheme
+
+3. futher click 3 dots near the color scheme filed and tap import scheme and than find downloaded file on your PC
+
+4. Enjoy
