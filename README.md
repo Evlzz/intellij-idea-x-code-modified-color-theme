@@ -8,7 +8,7 @@ To install it:
 
 2. go: File - Settings - Editor - Color Scheme
 
-3. futher click 3 dots near the color scheme filed and tap import scheme and than find downloaded file on your PC
+3. futher click 3 dots near the color scheme field and tap import scheme and than find downloaded file on your PC
 
 4. enjoy..?
 
