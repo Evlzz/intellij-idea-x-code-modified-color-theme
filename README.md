@@ -10,7 +10,7 @@ To install it:
 
 3. futher click 3 dots near the color scheme filed and tap import scheme and than find downloaded file on your PC
 
-4. Enjoy
+4. enjoy..?
 
 Original scheme's repository: https://github.com/WhiteVermouth/XcodeTheme
 
